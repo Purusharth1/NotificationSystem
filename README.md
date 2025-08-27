@@ -53,11 +53,6 @@ The following UML diagram illustrates the polymorphic design and relationships b
    dotnet build
    ```
 
-4. **(Optional) Run the demo application**:
-   ```bash
-   dotnet run --project NotificationSystem.Demo
-   ```
-
 ---
 
 ## ✔️ Verification
